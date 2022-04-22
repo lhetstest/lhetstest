@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently live in Vienna.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a TechGeek and a Developer from Ukraine :ukraine:, currently live in Vienna.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
