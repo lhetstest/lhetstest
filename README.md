@@ -23,9 +23,9 @@ I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring.
 
-- :zap: In my free time, I solve problems on codewars and read tech articles.
+- :zap: In my free time, I solve problems on codewars and passing AWS certifications. 
 
-- :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-lightgrey?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
+- :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
 
 
 <!--
