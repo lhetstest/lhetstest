@@ -11,10 +11,6 @@
   </h1> 
 </div>
 
-<div align="center">
- <img src="https://indico.cern.ch/event/800955/logo-349858561.png" width="500" alt="info">
-</div>
-
 ### :woman_technologist: About Me :
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a TechGeek and a Developer from Ukraine :ukraine:, currently live in Vienna.
