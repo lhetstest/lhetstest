@@ -11,6 +11,23 @@
   </h1> 
 </div>
 
+<div align="center">
+ <img src="https://indico.cern.ch/event/800955/logo-349858561.png" width="500" alt="info">
+</div>
+
+:woman_technologist: About Me :
+
+I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring.
+
+- :zap: In my free time, I solve problems on codewars and read tech articles.
+
+- :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-lightgrey?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
+
+
 <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
