@@ -21,7 +21,7 @@ I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring.
+- :seedling: Exploring. Learning German, Math, Physics.
 
 - :zap: In my free time, I solve problems on codewars and passing AWS certifications. 
 
