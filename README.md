@@ -15,7 +15,7 @@
  <img src="https://indico.cern.ch/event/800955/logo-349858561.png" width="500" alt="info">
 </div>
 
-:woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently live in Vienna.
 
@@ -27,6 +27,7 @@ I am a TechGeek and a Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
 
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
