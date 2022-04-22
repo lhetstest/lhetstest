@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
  
   <img src="https://media0.giphy.com/media/eNM4NlGpmCxzcXesjr/giphy.gif?cid=790b7611e7f5f242924fef25e2b7f49764d18bcadb7891fd&rid=giphy.gif&ct=g" width="200"> 
@@ -8,7 +6,7 @@
     <p><img src="https://komarev.com/ghpvc/?username=lhetstest&style=flat-square&color=blue" alt=""/></p>
   </div>
   <h1>
-  hey there
+  Guten tag
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
 </div>
