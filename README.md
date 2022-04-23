@@ -49,7 +49,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40">
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40">
 <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
