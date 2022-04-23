@@ -50,7 +50,11 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40">
-<!--
+
+ ### :fire: My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lhetstest&theme=Javascript&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+ <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
