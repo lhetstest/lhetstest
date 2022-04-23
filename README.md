@@ -52,11 +52,11 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40">
 
  ### :fire: My Stats :
- <div align="center">
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lhetstest&theme=Javascript&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhetstest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div> 
+
 
  <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
