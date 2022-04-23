@@ -24,7 +24,32 @@
 - :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<p> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="python"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="angular">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  alt="jupiter" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="react" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-plain.svg" alt="salesforce" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40">
+ 
 <!--
 **lhetstest/lhetstest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
