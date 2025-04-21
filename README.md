@@ -19,7 +19,7 @@
 
 - :seedling: Exploring. Learning German, Math, Physics.
 
-- :zap: In my free time, I solve problems on codewars and passing AWS certifications. 
+- :zap: In my free time, I solve problems on codewars and reading books. 
 
 - :mailbox: How to reach me: [![Telegram](https://img.shields.io/badge/lhest-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/lhest)
 
